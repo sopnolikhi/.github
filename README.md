@@ -1,4 +1,4 @@
-# Hi, I'm MH TOUFIK. 👋
+# Hi 👋
 
 ```kotlin
 fun codding() {
